@@ -3,7 +3,7 @@ module github.com/mudler/entities
 go 1.21
 
 require (
-	github.com/mauromorales/xpasswd v0.3.1
+	github.com/mauromorales/xpasswd v0.4.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/onsi/ginkgo v1.12.0
 	github.com/onsi/gomega v1.33.0
